@@ -6,7 +6,7 @@
 // @author       https://www.facebook.com/lanhhuyet510
 // @match        https://www.bitsler.com/play/dice/*
 // @match        https://www.bitsler.com/play/dice
-// @update       https://raw.githubusercontent.com/lanhhuyet510/auto-bitsler/master/DICE/auto_v1_tampermonkey.js
+// @update       https://raw.githubusercontent.com/hotandinh/bitsler/master/auto_bitslet_tampermonkey.js
 // @grant        GM_addStyle
 // @grant        GM_getResourceURL
 // @grant		 GM_xmlhttpRequest
